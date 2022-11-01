@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Kb1be4BhSZ2I6pprV7qjlizj9SQMOXfuOJuMDzPdoE4=",
+  "Source": "FakeSteam.API",
+  "BasePath": "_content/FakeSteam.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
